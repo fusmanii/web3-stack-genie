@@ -2,7 +2,7 @@
 
 ![Web3 Stack Genie](./image.png)
 
-Web3 Stack Genie is an interactive tool that helps developers choose and configure the optimal tech stack for their Web3 projects. By answering a few questions about your project requirements, it generates personalized recommendations for blockchain platforms, development frameworks, and essential tools to kickstart your Web3 development journey.
+Web3 Stack Genie is an interactive tool that helps developers choose and configure the optimal tech stack for their Web3 projects. By answering a few questions about your project requirements, it generates personalized recommendations for blockchain platforms, development frameworks, and essential tools to kickstart your Web3 development journey
 
 ## Getting Started
 
